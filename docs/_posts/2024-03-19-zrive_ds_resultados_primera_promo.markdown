@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Zrive Data Science - Empleabilidad Primer Promo"
+title:  "Zrive Data Science - Empleabilidad Primera Promoción"
 date:   2024-03-19 00:00:00 +0100
 categories: zrive
 ---
