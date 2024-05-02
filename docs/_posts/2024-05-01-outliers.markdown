@@ -1,0 +1,24 @@
+---
+layout: single
+title:  "Los outliers NO se eliminan"
+date:   2024-05-01 00:00:00 +0100
+categories: data_science
+---
+Q: Qué hacemos con los outliers?
+A: Los detectamos con un box-plot y los quitamos.
+
+**No, nos lo quitamos!**
+
+![Box-plot Outliers](/assets/images/outliers.webp) 
+
+Primero, los "outliers" de un box-plot no son más que aquellos puntos que están en la cola de la distribución bajo una definición muy específica.
+
+Segundo, que haya ciertos valores extremos NO significa que sean erróneos.
+
+Un error se identifica por valores imposibles. Una edad de 932 años es un error. Una altura de un edificio de 4km es un error. Una edad de 112 años es un outlier, claro, pero puede no ser un error.
+
+Si eliminamos outliers que no son errores estamos introduciendo dos problemas:
+1. Simplificamos el dataset y por tanto creeremos que somos capaces de modelarlo mejor de lo que realmente podemos.
+2. El modelo no habrá visto los puntos más extremos y por tanto es probable que los prediga aún peor de lo que lo haría si los hubiésemos mantenido.
+
+Por eso, eliminar los outliers suele llevar a una sobreestimación de la calidad del modelo y a poner en producción algo que va a funcionar peor de lo que se espera y que, además, es probable que falle de forma dramática con los datos extremos.
