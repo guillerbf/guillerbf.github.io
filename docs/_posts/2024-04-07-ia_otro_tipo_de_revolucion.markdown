@@ -1,8 +1,9 @@
 ---
 layout: single
 title:  "IA, otro tipo de revolución industrial"
-date:   2024-04-7 00:00:00 +0100
+date:   2024-04-07 00:00:00 +0100
 categories: data_science
+excerpt: ¿Afectará la IA por igual a todos los profesionales cualificados? Analizando las capacidades de los modelos de inteligencia artificial, podemos prever que no. Es posible que el impacto de la IA tampoco se distribuya equitativamente entre los trabajadores cualificados, si no que el impacto negativo se concentre en los trabajadores de cualificación media-alta.
 ---
 *[Artículo publicado](https://retinatendencias.com/negocios/ia-otro-tipo-de-revolucion-industrial/) originalmente en la revista Retina (El Pais)*  
 

@@ -4,13 +4,23 @@ title: About
 permalink: /about/
 ---
 
-Hi 👋!
+Hi, I'm Guille 👋!
 
-I'm Guille. Welcome to my small digital niche.
+This is the brain dump where I store most of the Data related posts that I share in RRSS.
 
-In my over 10 years of experience, I have developed my entire professional career as a Data Scientist in Spain and London. 
+My main goal with this content is to share my own knowledge and experience to help others bridge the gap between theoretical concepts and real-world practical applications. 
 
-I have worked in research in both academia and industry, led the development of the recommendation and personalization capabilities at Tesco, the largest supermarket in the UK, and built the data function from scratch at Bother, a London-based e-commerce startup. I has also been fortunate to have companies trusting me as an external data advisor to help them make decisions trying to steer their data science projects in the right direction. 
+I hope you find it useful. Thanks your joining me!
 
-Right now, I'm currently focused on [Zrive](zriveapp.com), building an ed-tech platform dedicated to empowering individuals to acquire new skills, advance their careers, and expand their professional networks outside the traditional educational institutions.
 
+## My professional career in a nutshell
+
+For those who doesn't know me, I thought I'd share a little bit more about my professional career.
+
+I have developed my career as a Data Scientist over the last 10 years in Spain and London, both in startups and large corporations.
+
+During this time, I have worked in research in both academia and industry, led the development of the recommendation and personalization capabilities at Tesco, the largest supermarket in the UK, and built the data function from scratch at Bother, a London-based e-commerce startup. 
+
+I have also helped companies making decisions and steering their data science projects, as an external data advisor. 
+
+Right now, I'm currently focused on [Zrive](zriveapp.com), building an ed-tech platform dedicated to empower individuals to acquire new skills, advance their careers, and expand their professional networks outside the traditional educational institutions.
