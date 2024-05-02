@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm Guille 👋!
 
-This is the brain dump where I store most of the Data related posts that I share in RRSS.
+This is the brain dump where I save most of the Data related posts that I share in RRSS.
 
 My main goal with this content is to share my own knowledge and experience to help others bridge the gap between theoretical concepts and real-world practical applications. 
 
