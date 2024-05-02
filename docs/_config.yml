@@ -29,8 +29,8 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-# remote_theme: mmistakes/minimal-mistakes
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
+# theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: dark
 # Outputting
 permalink: /:categories/:title/
@@ -81,7 +81,7 @@ defaults:
       type: posts
     values:
       layout: single
-      # show_date: true
+      show_date: true
       # read_time: false
   # _pages
   - scope:
