@@ -14,11 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Guille Barquero
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  I write about Data Science, sharing my own knowledge and experience to help others bridge the gap between theoretical concepts and real-world practical applications. 
-twitter_username: guillerbf
-github_username: guillerbf
+description: I write about Data Science, sharing my own knowledge and experience to help others bridge the gap between theoretical concepts and real-world practical applications. 
 
 # Build settings
 markdown: kramdown
@@ -111,3 +107,9 @@ author:
     - label: "Zrive"
       icon: "fas fa-fw fa-link"
       url: "https://zriveapp.com"
+
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
