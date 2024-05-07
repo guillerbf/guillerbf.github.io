@@ -1,0 +1,34 @@
+---
+layout: single
+title:  "Una revolución a la sombra de la AI"
+date:   2024-01-15 00:00:00 +0100
+categories: data_science
+---
+
+Avances simultáneos en procesos, estándares y herramientas están convergiendo en un ecosistema con el grado de madurez necesario para permitir una digitalización efectiva del tejido empresarial.
+
+Los nuevos algoritmos de inteligencia artificial (IA) han copado todos los titulares sobre tecnología en los últimos meses y no faltan motivos. El salto en capacidades de procesado y generación de texto e imágenes que hemos presenciado ha sido tan impresionante como inesperado. Su capacidad de superar exámenes o de escribir guiones en segundos captan nuestro interés y nos fascinan. A falta de que se materialicen aplicaciones concretas, esta joven tecnología es firme candidata para convertirse en el pilar sobre el que reposarán muchas de las aplicaciones personales y profesionales que usaremos en la próxima década.
+
+Sin embargo, hoy no quiero centrarme en la IA, sino utilizar este espacio para hablar sobre una revolución silenciosa que se ha venido fraguando en la última década y que por fin está entrando en una fase de aceleración. Esta revolución la forman todos los avances simultáneos en procesos, estándares y herramientas que están convergiendo en un ecosistema que finalmente está alcanzando el grado de madurez necesario para permitir una digitalización efectiva del tejido empresarial al completo. Dentro de este ecosistema la IA es sólo el último invitado.
+
+![Gartner Hype Cycle](/assets/images/gartner_hype_cycles.jpg) 
+
+Llevamos años escuchando hablar sobre la "digitalización" como una promesa que nunca se cumplía. La promesa de una economía en la que la mayoría de los procesos estarían automatizados y el uso de datos permitiría a las empresas tomar decisiones informadas en todos los niveles. Esta revolución tecnológica ha seguido perfectamente la curva de expectativas de Gartner, comenzando por una fase de “expectativas exageradas”, seguida por un “abismo de desilusión” donde las expectativas se vuelven negativas, una “rampa de consolidación” en la que las tecnologías se van consolidando pero apenas se habla de ellas, hasta llegar a la fase actual de madurez, en la que los beneficios comienzan a hacerse evidentes, las tecnologías se vuelven más asequibles y la adopción se acelera.
+
+A pesar de que pueda parecer que hemos estado escuchando el término desde siempre y que el progreso estuviese estancado, un vistazo rápido a los últimos años revela que en realidad se han logrado grandes avances en aprendizaje automático aplicado a múltiples problemas. Hemos sido testigos de la rápida evolución y adopción de la computación en la nube y la modularización de internet a través de nuevos modelos de negocio como el Software como Servicio (SaaS por sus siglas en inglés). Sin embargo, este avance tecnológico ha ido más rápido que muchas empresas que no han podido adaptarse a ese ritmo y, por lo tanto, todavía no se han logrado beneficiar plenamente de la "digitalización”.
+
+No obstante, esto es justo lo que está cambiando actualmente gracias a la combinación de tres factores clave: la experiencia acumulada en empresas pioneras que ya han logrado implementar sistemas eficientes de gestión de datos, la acumulación de casos exitosos que han logrado altas rentabilidades a través del uso de datos y la reducción de costes de las tecnologías y el del desarrollo de soluciones basadas en datos.
+
+Cada vez más empresas han logrado construir equipos especializados en la gestión de datos de forma efectiva. A través de estos equipos, no solo han conseguido adoptar las tecnologías e implementar las soluciones técnicas necesarias para el uso sistemático de sus datos, sino que también han logrado fomentar un cambio cultural dentro de la organización. Todo este conocimiento acumulado ya ha empezado a difundirse a otras empresas que lo usan para acelerar su propia transformación. Podemos decir que, tras un proceso de años, empezamos a saber cómo establecer organizaciones eficientes de datos.
+
+Los beneficios empiezan a ser evidentes, y se acumulan los ejemplos de empresas que han logrado obtener altas rentabilidades a partir del uso efectivo de sus datos, en casi todos los sectores y en una amplia variedad de problemas. A pesar de ser un proceso complejo, las organizaciones que han establecido una cultura de datos sólida están cosechando grandes resultados que inspiran a otras empresas a seguir su ejemplo e invertir en su propio proceso de digitalización.
+
+Finalmente, las tecnologías se vuelven más accesibles y la adopción se acelera. El ecosistema de herramientas y tecnologías relacionadas con la gestión de datos sigue madurando y abaratando los costes de desarrollo. Este ecosistema ha evolucionado durante la última década hasta alcanzar el grado de madurez que permite una adopción rápida y masiva a un coste suficientemente bajo. En este sentido, la inteligencia artificial puede convertirse en el impulsor final de esta reducción de costes. A medida que esta nueva tecnología madure, es probable que contribuya a la automatización de tareas y a democratizar aplicaciones de analítica avanzada y ciencia de datos en toda la industria.
+
+Esta revolución está ocurriendo en gran medida en silencio, eclipsada por la revolución mucho más llamativa de la inteligencia artificial. No obstante, es esencial reconocer que, a pesar de todos los esfuerzos puestos en la "digitalización" hasta el momento, la mayoría de las empresas y procesos aún no están aprovechando de manera efectiva sus datos, y el potencial sin explotar en este ámbito es inmenso.
+
+Hasta ahora, esta revolución ha sido impulsada principalmente por grandes empresas con presencia digital y startups tecnológicas, que a su vez han sido las grandes beneficiadas. Las primeras, con los recursos necesarios, han probado e iterado hasta lograr establecer las bases para un uso efectivo de sus datos. Las startups, con una necesidad inherente por innovar, se han apoyado en tecnologías cada vez más baratas y en la modularización de internet para construir soluciones complejas de forma rápida y económica con las que poder competir por hacerse un hueco en el mercado.
+
+Después de un largo camino, por fin estamos entrando en la etapa de madurez necesaria para que el resto de las empresas del tejido productivo también comiencen a beneficiarse de estas tecnologías para mejorar su productividad, crecimiento e innovación. Esta es la revolución a la sombra de la IA.
+
+(Artículo publicado en [La Razón](https://www.larazon.es/emergente/revolucion-sombra-digitalizacion-empresarial_20231110654ded59b276150001a73e0c.html))
