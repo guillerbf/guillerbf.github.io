@@ -76,6 +76,7 @@ defaults:
     values:
       layout: single
       show_date: true
+      classes: wide
       # read_time: false
   # _pages
   - scope:
