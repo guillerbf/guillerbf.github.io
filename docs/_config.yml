@@ -114,3 +114,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-ZV0TTS53EB"
+    anonymize_ip: false # default
