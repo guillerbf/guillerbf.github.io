@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "Los modelos de ML no toman decisiones, estiman probabilidades(*)"
-date:   2024-05-08 00:00:00 +0100
+title:  "¿Quién es quién en Datos? De inteligencia artificial a Big Data."
+date:   2024-05-13 00:00:00 +0100
 categories: data_science
-excerpt: "Los modelos de ML no generan decisiones, estiman probabilidades (*). Y entender esto es fundamental. Si hay un solo concepto que debería estar claro, es este."
+excerpt: "Pongamos algo de sentido al hype. Definamos qué significan realmente los conceptos más usados en el campo de los datos: inteligencia artificial, Big Data, aprendizaje automático y Data Science."
 ---
 Inteligencia artificial, Big Data, aprendizaje automático y Data Science, son términos que suelen aparecer de la mano e incluso utilizarse indistintamente para hacer referencia, de forma algo confusa, a tecnologías que se relacionan con el uso de los datos y la automatización.
 
