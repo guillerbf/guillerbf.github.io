@@ -6,5 +6,5 @@ update-site:
 	git commit -m "$(m)"
 	git push origin main
 
-create-post:
+new-post:
 	python docs/create_post.py "$(title)"
