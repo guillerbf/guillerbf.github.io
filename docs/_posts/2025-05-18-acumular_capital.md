@@ -1,7 +1,7 @@
 ---
+layout: single
 title: "La importancia de acumular capital en los primeros años"
 date: 2025-05-18 12:29:15 +0000
-layout: single
 categories: data_science
 ---
 *[Artículo publicado](https://www.elespanol.com/invertia/disruptores/opinion/20240804/acumular-capital-primeros-anos/874782515_12.html) originalmente en el periódico El Español*
