@@ -1,5 +1,5 @@
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 import sys
 
 def slugify(title):
@@ -7,7 +7,8 @@ def slugify(title):
 
 def create_post(title, categories=None, tags=None):
     date = datetime.now().strftime("%Y-%m-%d")
-    time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    ## It wont show future posts and due to potential timezone issues, we substract one day
+    time = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d %H:%M:%S")
     slug = slugify(title)
     filename = f"docs/_posts/{date}-{slug}.md"
     if not categories:
