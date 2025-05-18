@@ -1,6 +1,6 @@
 ---
 title: "Las dos decisiones más importantes en Data Science"
-date: 2025-02-17 12:56:16 +0000
+date: 2025-01-17 12:56:16 +0000
 layout: single
 categories: data_science
 ---
